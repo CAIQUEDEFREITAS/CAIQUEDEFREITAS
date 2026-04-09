@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Computer Science student at Unifacs 
-🍀 Brazilian, software engineer.
-💻 Javascript, Typescript, Java, Python.
-🍝 Listening to music, cooking, and coding.
+. 🎓 Computer Science student at Unifacs 
+. 🍀 Brazilian, software engineer.
+. 💻 Javascript, Typescript, Java, Python.
+. 🍝 Listening to music, cooking, and coding.
